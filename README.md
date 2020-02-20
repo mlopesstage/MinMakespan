@@ -1,5 +1,4 @@
 # MinMakespan
-Min Makespan
 
 Bienvenue sur le projet Min Makespan de Lopes Michaël et Garic Luca.
 Dans ce dossier vous trouverez plusieurs documents :
